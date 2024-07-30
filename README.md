@@ -14,6 +14,7 @@ Excel data sheet
 - Heatmap
 - Calendar
 
+## 
 ## TYPES OF VISUALIZATIONS
 
 ### Average house sales price
@@ -56,7 +57,7 @@ Red to green showing Poor to Excelent. This also shows the average price for the
 Made this calendar for every week of the months. This calendar will be a filter on the main dashboard. This also shows the average price for the houses on that particular day. 
 <img width="1470" alt="Calendar" src="https://github.com/user-attachments/assets/9b992aea-3fa9-4656-92c3-340d235133d3">
 
-
+## 
 ## INTERACTIVE DASHBOARD
 This is an interactive dashboard which consist of all the following topics I have covered. The dashboard changes based on  the calendar and the year built filter. You can use this dashboard to check the average price, condition, view, number of bedrooms, number of bathrooms, location and the year built for houses for sale on a particular day between May 01, 2014 to May 31, 2015.
 <img width="1470" alt="Dashboard" src="https://github.com/user-attachments/assets/8c44f795-df3a-43ea-9b90-17916df28e4f">
