@@ -1,11 +1,11 @@
 # HOME VALUE ANALYSIS
-Analysis of houses for sale in North America King county, Washington. 
+Analysis of houses for sale in North America King county, Washington. This analysis is done using Tableau and showcase some of the visualizations skills I have. 
 
-## SOURCE OF DATA 
+### Tableau worksheet
+[worksheet](https://public.tableau.com/views/HomeValueAnalysis_16991273999140/AnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+#### Source of data 
 Github.com
-
-## TYPE OF RAW DATA
-Excel data sheet
 
 ## TOPICS COVERED
 - Line chart
